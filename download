@@ -1,0 +1,9 @@
+# ─────────────────────────────────────────────
+# AI Personalized Learning — Environment Config
+# ─────────────────────────────────────────────
+
+# Get your key at https://console.anthropic.com/
+ANTHROPIC_API_KEY=your_api_key_here
+
+# Server port (default: 3000)
+PORT=3000
